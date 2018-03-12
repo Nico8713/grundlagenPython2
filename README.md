@@ -7,6 +7,7 @@
 
 *funktionsweise von Python
 *variable und datentypen
+ein- und ausgabe
 *abfragen(if...)
 *schleifen(for, while)
 *listen
